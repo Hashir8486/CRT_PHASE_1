@@ -1,1 +1,0 @@
-/*simulate an atm withdrawl system the program should take the withdrawl determine whether the transaction is valid or not */
