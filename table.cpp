@@ -1,0 +1,1 @@
+/*create a multiplication table using for loop*/

@@ -13,6 +13,6 @@ int main(){
     for(int i=1;i<=n;i++){
         fact = fact*i;
     }
-    cout<<"factorial of number=is "<<fact<<endl;
+    cout<<"factorial of number is "<<fact<<endl;
 } return 0;
 }
